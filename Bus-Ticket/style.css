@@ -1,0 +1,222 @@
+.main-section {
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    height: 77rem;
+    width: 59rem;
+    border: 4px solid black;
+}
+
+.logo-section {
+    width: 115px;
+    height: 115px;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    border-radius: 50%;
+}
+
+.company-name {
+    margin-left: 280px;
+    margin-top: -130px;
+}
+
+.company-address {
+    margin-top: -14px;
+}
+
+.passenger-section {
+    /* border: 1px solid blue; */
+    width: 100%;
+    margin-top: 64px;
+    margin-left: 10px;
+    width: 84rem;
+    height: 25rem;
+}
+
+.trip-info {
+    border: 2px solid black;
+    height: 14rem;
+    width: 60%;
+}
+
+.pnr-section {
+    margin-left: 50px;
+}
+
+.trip-section {
+    width: 75%;
+}
+
+.pnr {
+    margin-left: -38px;
+}
+
+.trip-date {
+    margin-left: 282px;
+    margin-top: -230px;
+}
+
+.payment-section {
+    margin-left: 39rem;
+    margin-top: -228px;
+    border: 2px solid black;
+    background-color: floralwhite;
+    height: 16rem;
+    width: 18rem;
+}
+
+.payment-section-info {
+    margin-left: 40px;
+}
+
+.big-text {
+    font-size: 20px;
+    margin-top: -4px;
+    margin-bottom: 42px;
+}
+
+.passenger-name-hr {
+    margin-left: 2px;
+    width: 21rem;
+    background-color: black;
+}
+
+.passenger {
+    margin-left: 10rem;
+}
+
+.passenger-name {
+    margin-left: 22px;
+}
+
+.seat-section {
+    margin-left: 34rem;
+    margin-top: -102px;
+}
+
+.seat-name,
+.seat {
+    margin-left: -8rem;
+}
+
+.seat-hr {
+    background-color: black;
+    margin-left: -200px;
+    width: 16rem;
+}
+
+.section-end-hr {
+    /* border: 1px solid black; */
+    margin-left: -10px;
+    margin-right: 410px;
+    background-color: black;
+}
+
+.section-end-hr-two {
+    border: 1px solid black;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: black;
+}
+
+.powered-by {
+    margin-top: 1rem;
+    width: 290px;
+    height: 100px;
+    margin-left: 1rem;
+}
+
+.write-to-us {
+    margin-top: -116px;
+    width: 290px;
+    height: 100px;
+    margin-left: 15rem;
+}
+
+.call-us {
+    margin-left: 32rem;
+    margin-top: -116px;
+}
+
+.logo-second-section {
+    width: 262px;
+    height: 124px;
+    margin-left: 42rem;
+    margin-top: -144px;
+}
+
+.section-end-hr-two {
+    border: 1px solid black;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: black;
+    margin-top: -1px;
+}
+
+.terms-condition-headline {
+    font-size: 20px;
+    margin-left: 14px;
+}
+
+.terms-left-section {
+    width: 50%
+}
+
+
+/* .terms-right-section {
+    width: 50%
+} */
+
+.text-underline {
+    text-decoration: underline;
+}
+
+.terms-right-section {
+    margin-top: -128px;
+    margin-left: 30rem;
+}
+
+.last-left-section {
+    margin-left: -18rem;
+}
+
+.last-section-payment-section-info-headline {
+    text-decoration: underline;
+}
+
+.last-pnr {
+    margin-left: 50rem;
+    margin-top: -148px;
+}
+
+.footer-section {
+    color: red;
+    margin-left: 19rem;
+    margin-top: 1rem;
+}
+
+.payment-section-headline {
+    text-decoration: underline;
+    margin-left: 40px;
+}
+
+.text-color {
+    color: red;
+}
+
+.shohoz-section {
+    padding-top: 12px;
+}
+
+.last-section-payment-section {
+    margin-left: 314px;
+}
+
+.last-section {
+    font-size: 12px;
+}
+
+.passenger-name-section {
+    margin-top: 0;
+}
